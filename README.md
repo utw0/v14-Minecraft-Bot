@@ -17,4 +17,4 @@ Merhaba, Bu projeye hem priv hem minecraft sunucuları veya satış sunucuları 
 </details>
 
 ## 🤮 Author & Lisence
-Telif Hakkı © 2024 [Utku 'luhux' Kösem](https://github.com/utw0).
+Telif Hakkı © 2024 [luhux](https://github.com/utw0).
